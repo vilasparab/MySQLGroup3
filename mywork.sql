@@ -22,3 +22,7 @@ VALUES
 
 
 select * from student;
+
+----- updates Query---
+SELECT * FROM Student
+WHERE marks > 80;
